@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lQsu1AEHYFuQsfkaYw+jxFARIsuxVkdfllZW02qwQ0Y=",
+  "Source": "GraphqlDemo.API",
+  "BasePath": "_content/GraphqlDemo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
