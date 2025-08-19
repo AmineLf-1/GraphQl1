@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "G5Ms40+qYFY=",
+  "dgSpecHash": "MZrP2EF6g60=",
   "success": true,
   "projectFilePath": "C:\\Users\\naitb\\Desktop\\GraphQl\\Project1\\GraphqlDemo\\GraphqlDemo.API\\GraphqlDemo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\naitb\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512",
     "C:\\Users\\naitb\\.nuget\\packages\\chillicream.nitro.app\\28.0.7\\chillicream.nitro.app.28.0.7.nupkg.sha512",
     "C:\\Users\\naitb\\.nuget\\packages\\greendonut\\15.1.8\\greendonut.15.1.8.nupkg.sha512",
     "C:\\Users\\naitb\\.nuget\\packages\\greendonut.abstractions\\15.1.8\\greendonut.abstractions.15.1.8.nupkg.sha512",

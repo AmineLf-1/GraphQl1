@@ -67,3 +67,5 @@ C:\Users\naitb\Desktop\GraphQl\Project1\GraphqlDemo\GraphqlDemo.API\obj\Debug\ne
 C:\Users\naitb\Desktop\GraphQl\Project1\GraphqlDemo\GraphqlDemo.API\obj\Debug\net8.0\GraphqlDemo.API.pdb
 C:\Users\naitb\Desktop\GraphQl\Project1\GraphqlDemo\GraphqlDemo.API\obj\Debug\net8.0\GraphqlDemo.API.genruntimeconfig.cache
 C:\Users\naitb\Desktop\GraphQl\Project1\GraphqlDemo\GraphqlDemo.API\obj\Debug\net8.0\ref\GraphqlDemo.API.dll
+C:\Users\naitb\Desktop\GraphQl\Project1\GraphqlDemo\GraphqlDemo.API\bin\Debug\net8.0\Bogus.dll
+C:\Users\naitb\Desktop\GraphQl\Project1\GraphqlDemo\GraphqlDemo.API\obj\Debug\net8.0\GraphqlDemo.API.sourcelink.json
